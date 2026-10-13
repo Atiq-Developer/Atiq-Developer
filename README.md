@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <a href="https://github.com/Atiq-Developer">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=00D9FF&center=true&vCenter=true&width=800&lines=Software+Engineer+%F0%9F%92%BB;Building+Modern+Web+Applications;Designing+Cloud+Data+Pipelines;Exploring+Data+Analytics+%26+Data+Science;Creating+AI+Tools%2C+Agents+%26+Chatbots;Turning+Ideas+Into+Reality+%E2%9C%A8" alt="Typing animation" />
+font=Fira+Code&weight=600&size=21&pause=1100&color=00D9FF&center=true&vCenter=true&width=800&lines=Software+Engineer+%F0%9F%92%BB;Building+Modern+Web+Applications;Designing+Cloud+Data+Pipelines;Exploring+Data+Analytics+%26+Data+Science;Creating+AI+Tools%2C+Agents+%26+Chatbots;Turning+Ideas+Into+Reality+%E2%9C%A8" alt="Typing animation" />
 </a>
 
 <p>
@@ -118,37 +118,6 @@ I'm **Muhammad Atiq Ur Rehman**, a Software Engineer based in **Karachi, Pakista
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress" alt="Developer tools"/>
 </p>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🗣️ FusionTalk — Real-Time AI Translation</h3>
-      <p>A real-time voice translation web application designed to help people communicate across languages.</p>
-      <p><strong>Focus:</strong> speech recognition, translation, voice output, and real-time communication.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-215732?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AI_APIs-7C3AED?style=flat-square"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>☁️ Cloud ETL Data Pipelines</h3>
-      <p>Data engineering practice focused on extracting, transforming, and loading data with scheduled and streaming workflows.</p>
-      <p><strong>Focus:</strong> Python, SQL, Kafka, Airflow, Snowflake, and AWS.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
-> More projects and repositories will be added here as I continue building and improving my portfolio.
 
 ---
 
