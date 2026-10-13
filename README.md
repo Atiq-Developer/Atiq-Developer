@@ -4,8 +4,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:071A2C,45:123B5D,75:087E8B,100:00E5FF&text=Atiq%20Dev&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=SOFTWARE%20ENGINEER%20%7C%20WEB%20%E2%80%A2%20DATA%20%E2%80%A2%20AI&descAlignY=60&descSize=17" alt="Atiq Dev animated header" />
 
 <!-- Typing animation -->
+<!-- Typing animation -->
 <a href="https://github.com/Atiq-Developer">
-font=Fira+Code&weight=600&size=21&pause=1100&color=00D9FF&center=true&vCenter=true&width=800&lines=Software+Engineer+%F0%9F%92%BB;Building+Modern+Web+Applications;Designing+Cloud+Data+Pipelines;Exploring+Data+Analytics+%26+Data+Science;Creating+AI+Tools%2C+Agents+%26+Chatbots;Turning+Ideas+Into+Reality+%E2%9C%A8" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=00D9FF&center=true&vCenter=true&width=800&lines=Software+Engineer+%F0%9F%92%BB;Building+Modern+Web+Applications;Designing+Cloud+Data+Pipelines;Exploring+Data+Analytics+%26+Data+Science;Creating+AI+Tools%2C+Agents+%26+Chatbots;Turning+Ideas+Into+Reality+%E2%9C%A8" alt="Typing animation" />
 </a>
 
 <p>
